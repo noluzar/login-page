@@ -230,11 +230,11 @@ a {
     transform: translateX(0);
 }
 
-.container.sign-up-modeform.sign-in-form {
+.container.sign-up-mode form.sign-in-form {
     opacity: 0;
 }
 
-.container.sign-up-modeform.sign-up-form {
+.container.sign-up-mode form.sign-up-form {
     opacity: 1;
 }
 
